@@ -1,2 +1,12 @@
+# TeV Blazar Variability Analysis
 This repository contains Python notebooks and analysis tools for studying variability in TeV blazars using optical light curves and spectral energy distributions (SEDs).
-The workflow combines time-domain and spectral analyses to investigate how the emission properties of blazars change over different time periods.
+
+The workflow combines time-domain and spectral analyses to investigate how the broadband emission properties of blazars evolve over different observational time periods.
+
+## Data Sources
+- TeVCat
+- CRTS
+- SSDC SED Builder
+## Current Test Sources
+- MKN421
+- MKN501
