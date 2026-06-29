@@ -7,6 +7,4 @@ The workflow combines time-domain and spectral analyses to investigate how the b
 - TeVCat
 - CRTS
 - SSDC SED Builder
-## Current Test Sources
-- MKN421
-- MKN501
+
